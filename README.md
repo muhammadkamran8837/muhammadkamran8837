@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a full-stack web and mobile app developer currently working on a news web app using next.js & a skin care products recommendation app using React Native<br>Looking to collaborate on unique and innovative project ideas and utilize my expertise. Currently, my focus is on learning the next.js framework and enhancing my expertise. <br>
+Full-Stack Engineer building AI-powered products. Currently shipping at Agile Loop, working on SAM-X (AI Excel automation) and Tera (no-code mobile app generator). <br>
 
 
 ## 🌐 Socials:

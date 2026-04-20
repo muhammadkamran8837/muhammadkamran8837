@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# About me:
 Full-Stack Engineer building AI-powered products. Currently shipping at Agile Loop, working on SAM-X (AI Excel automation) and Tera (no-code mobile app generator). <br>
 
 
